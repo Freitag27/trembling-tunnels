@@ -34,7 +34,7 @@ double-clicking an item in inventory: using it
 
 ## Good to know: 
 
-there is no process saving or pause button mid-run. The game should take (15 min max) to complete
+there is no process saving or pause button mid-run. One run through should take (10 min max) to complete
 
 ## Sources: 
 
