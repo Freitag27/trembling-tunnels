@@ -204,7 +204,7 @@ CHAPTER_5_NO_ROCKS_ENDING = [
 ]
 CHAPTER_5_ROCKS = [
     "You slam the rocks against the stalactites blocking your way to the next room.",
-    "Did you know stalactites only grows one centimeter every one hundred years?"
+    "Did you know stalactites only grow one centimeter every one-hundred years?"
 ]
 
 SKULL_DESCRIPTION = ["You feel a knot form in your stomach as you pick up a human skull."]
