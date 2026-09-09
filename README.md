@@ -1,7 +1,7 @@
 # Trembling Tunnels
 
 ## Description
-
+This is the repository for my game, for people that don't want to download my entire private repository to try the game :)
 Trembling Tunnels is a point-and click story game, which is my final for Tech Basics 1. It uses Python and Pygame.
 In the game, you explore a cave, trying to uncover its secrets. There are six different endings. Your progress should automatically be saved to the device, so you can pause and come back later to try different choices.
 
