@@ -12,9 +12,9 @@ Pygame 2.0
 
 ## How to play
 
-Download and unzip the repository from GitHub.
-Double-click main.py to start the game.
-//
+Download the repository from GitHub and run it with an application that supports python (e.g. pycharm, terminal)
+Double-click main.py to start the game.    
+
 The following files mus be present in order for the game to work: 
 achievements.py
 main.py
