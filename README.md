@@ -14,7 +14,7 @@ Pygame 2.0
 
 Download and unzip the repository from GitHub.
 Double-click main.py to start the game.
-
+//
 The following files mus be present in order for the game to work: 
 achievements.py
 main.py
